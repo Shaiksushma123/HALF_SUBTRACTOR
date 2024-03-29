@@ -26,7 +26,7 @@ STEP:8 Compare the output with logic truth table.
 # Truth Table
 ![image](https://github.com/RESMIRNAIR/HALF_SUBTRACTOR/assets/154305926/d0d5980a-6bcf-4ede-a54e-6aae3fb5f5f2)
 # Circuit Diagram
-![image](https://github.com/RESMIRNAIR/HALF_SUBTRACTOR/assets/154305926/df70da69-5a12-4a0d-ab84-a98dad3f7e70)
+![Half-Subtractor-in-Digital-Logic](https://github.com/Shaiksushma123/HALF_SUBTRACTOR/assets/159005642/882d1a9f-1e86-4a8f-9d87-b466cbd9eff3)
 ![image](https://github.com/RESMIRNAIR/HALF_SUBTRACTOR/assets/154305926/2f2d6a4d-9eda-4165-8579-1d7490b5fe97)
 
 # Program
