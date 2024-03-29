@@ -21,6 +21,8 @@ STEP:6 Click the simulation to simulate the program and give the inputs and veri
 STEP:7 Select the Implementation in the Sources Window and select the required file in the Processes Window.
 
 STEP:8 Compare the output with logic truth table. 
+
+
 # Truth Table
 ![image](https://github.com/RESMIRNAIR/HALF_SUBTRACTOR/assets/154305926/d0d5980a-6bcf-4ede-a54e-6aae3fb5f5f2)
 # Circuit Diagram
